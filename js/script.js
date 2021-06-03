@@ -1,4 +1,4 @@
-listona = [];
+var listona = [];
 
 for (var i = 0; i <= 100; i++) {
     if (i >= 1 && i % 3 == 0 && i % 5 == 0) {
